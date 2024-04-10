@@ -7,7 +7,7 @@ const Header = () => {
       <div className="text-white text-xl p-2 font-bold font-serif">Todo App</div>
       <div className="text-white text-xl p-2">
         <a
-          href="https://github.com/arijitparia2002"
+          href="https://github.com/Kamal59913"
           target="_blank"
           rel="noopener noreferrer"
         >
